@@ -19,9 +19,13 @@ All LeetCode problems in this repository are classified into the following categ
 10. Recursive Backtracking
 11. Graphs
 
+## Clone  this Repository
+``` 
+git clone https://github.com/Leman-24-horas/Algomap.io-DSA-Practice.git
+```
 
 ## Future Plans
-Recursion needs further practice. The immediate focus will be on solving more recursion problems before moving on to Recursive Backtracking. Once a solid foundation in recursion is established, the next steps will involve tackling Graphs and Dynamic Programming.
+The immediate focus will be on building a stronger foundation in Recursive BackTracking, following which the next steps will involve tackling Graphs and Dynamic Programming.
 
 ## Acknowledgements
 Algomap.io is a platform created by Greg Hogg who teaches Data Structures and Algorithms on YouTube. A big thank you to him for creating this resource and helping me better understand programming!
